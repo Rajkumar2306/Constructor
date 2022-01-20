@@ -9,7 +9,11 @@ public class Const1 extends Const2 {
   public  Const1(int age) {
 	  this ("Raj");
 		System.out.println(age);
+
+		System.out.println("kumar diner");
+
 		System.out.println("rajkumar code added");
+
   }
   public  Const1(String name) {
 	  this(12121245l);
