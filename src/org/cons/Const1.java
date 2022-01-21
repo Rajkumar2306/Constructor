@@ -13,7 +13,7 @@ public class Const1 extends Const2 {
 		System.out.println("kumar diner");
 
 		System.out.println("rajkumar code added");
-
+System.out.println("kumar added code too");
   }
   public  Const1(String name) {
 	  this(12121245l);
