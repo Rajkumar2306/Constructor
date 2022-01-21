@@ -14,6 +14,10 @@ public class Const1 extends Const2 {
 
 		System.out.println("rajkumar code added");
 System.out.println("kumar added code too");
+
+		System.out.println("new lines of code is added");
+
+
   }
   public  Const1(String name) {
 	  this(12121245l);
